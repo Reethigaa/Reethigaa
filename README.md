@@ -56,8 +56,8 @@ Matplotlib
 This ML-driven approach enhances healthcare decision-making, providing a cost-effective and scalable solution for cardiovascular disease detection.*
 
  Let's Connect!
-[![Reethiga Jayaram](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![Reethiga-J](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome)](your-portfolio-url)
+[![https://www.linkedin.com/in/reethiga-jayaram-7aa532288/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B4WqS0tRwSdy3EB%2BvHq7MYg%3D%3D](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile)
+[![https://www.notion.so/Reethiga-J-118bb25be83680df8ab3f3ab946ab4fd?pvs=4](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome)](your-portfolio-url)
 
 ---
 
