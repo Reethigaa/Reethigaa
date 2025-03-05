@@ -55,5 +55,14 @@ Pandas, NumPy
 Matplotlib
 This ML-driven approach enhances healthcare decision-making, providing a cost-effective and scalable solution for cardiovascular disease detection.*
 
+ Let's Connect!
+[![Reethiga Jayaram](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile)
+[![Reethiga-J](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome)](your-portfolio-url)
+
+---
+
+🔥 *“AI is the future, and I'm here to shape it.”* 😎
+
+
 
 
