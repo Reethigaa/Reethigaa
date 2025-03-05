@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Reethigaa
-- 👀 I’m interested in Learning new things and obviously a Tech mad. 
-- 📫 Reach me @ reethigajayaram6943@gmail.com / 7448976829
-- 😄 Pronouns: She/her
+- 💡 About Me
+- 🤖 AI Enthusiast | Frontend Developer | Robotics Fan
+- 🧠 Passionate about Machine Learning, Deep Learning & AI innovations
+- 📚 Currently exploring **Artificial Intelligence, MySQL & SQL Server**
+- 🔍 Always experimenting with AI models and cutting-edge technologies
 - ⚡ Fun fact: I once tried to code my way out of a paper bag... and succeeded!
 
 <!---
