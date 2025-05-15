@@ -18,7 +18,12 @@
 --->
 
 Projects
-Here are some of my top projects:
+Here are some of my top projects and base web applications:
+[file:///C:/React/Html%20my%20website/index.html 
+file:///C:/Users/Admin/OneDrive/Desktop/html-youtube-tutorial-ma-20250428T142123Z-001/html-youtube-tutorial-ma/html-youtube-tutorial-main/EMC%20Web%20Page%20HTML%20Project/starter/register.html
+file:///C:/Users/Admin/OneDrive/Desktop/css/index.html
+file:///C:/Users/Admin/OneDrive/Desktop/html-youtube-tutorial-ma-20250428T142123Z-001/html-youtube-tutorial-ma/html-youtube-tutorial-main/Event%20Management%20HTML%20Project/starter/event.html
+file:///C:/Users/Admin/OneDrive/Desktop/Perfume/index.html](url)
 
 📌 **Project 1: [AI-Powered Virtual Mouse Using Hand Gestures](https://github.com/your-username/project1)**  
 ⭐ *This project leverages Artificial Intelligence (AI) and Computer Vision to develop a virtual mouse that enables users to control their computer cursor using hand gestures. By eliminating the need for physical hardware, this system enhances accessibility and provides a more intuitive way to interact with digital interfaces.
